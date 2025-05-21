@@ -28,7 +28,8 @@
 
 ## 🔗 Links
 
-- 🎥 [LinkedIn Video Demo](https://www.linkedin.com/in/your-video-link)
+- 🎥 [LinkedIn Video Demo](https://www.linkedin.com/posts/harika-vavilapalli-69010b367_apexplanet-php-mysql-activity-7331041815871012864-zwC_? 
+utm_source=share&utm_medium=member_desktop&rcm=ACoAAFr2igwBm3u3oENrxKIPNBh6yJ3eYjS9fgY)
 - 💾 [GitHub Repo](https://github.com/Harika-Vavilapalli/myproject)
 
 ---
